@@ -1,0 +1,24 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.header{
+	background:#666;
+	height:120px;
+	width:100%;
+}
+.footer{
+	background:#0F0;
+	height:300px;
+	float:right;
+	width:300px;
+}
+.concter{
+	background:#903;
+	height:300px;
+	margin:0px 300px 0px 0px;
+	overflow:auto;
+}
+.concter img{
+width:100px;
+height:100px;
